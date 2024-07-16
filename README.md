@@ -43,3 +43,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pass0210&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pass0210&show_icons=true)
+
+<!-- contribute table -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pass0210&theme=react-dark&bg_color=00000000&hide_border=true&line=6495ED&color=9ACD32&title_color=6495ED" width=94%/>
+</a>
+
+<!-- 잔디먹는 뱀 -->
+<img src="https://github.com/pass0210/pass0210/blob/output/github-snake.svg" width="100%">
+
+<!-- footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
