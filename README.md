@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20my%20profile" />
 
 ## 💻 Project 💻
-✔ [2024.03 ~ 2024.6] [Ulsan Recomended System](https://github.com/TEAM-URS)  - 울산 장소 추천 시스템 <br/>
+✔ [2022.12 ~ 2023.5] [Ulsan Recomended System](https://github.com/TEAM-URS)  - 울산 장소 추천 시스템 <br/>
 ✔ [2024.03 ~ 2024.6] [Smart Academy](https://github.com/nhnacademy-aiot1-TXT)  - 환경 모니터링 및 장치 제어 시스템
 
 ## 🏫 Education 🏫
