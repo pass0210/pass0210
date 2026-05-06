@@ -41,9 +41,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pass0210&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pass0210&show_icons=true)
-
 <!-- contribute table -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pass0210&theme=react-dark&bg_color=00000000&hide_border=true&line=6495ED&color=9ACD32&title_color=6495ED" width=94%/>
