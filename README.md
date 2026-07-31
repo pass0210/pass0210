@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=박상원%20%7C%20Backend%20%26%20System%20Engineer&fontSize=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=박상원%20·%20Backend%20System%20Engineer&fontSize=36&fontColor=ffffff)
 
 ### 🚚 물류 자동화 시스템을 만드는 개발자입니다
 
@@ -12,9 +12,9 @@
 
 ## 💻 Project 💻
 
-✔ **[2026.06 ~ 진행 중]** [RCS·3D Sorter 연동 WCS](https://github.com/pass0210/Rcs3dsInterlockingWcs) — AGV·3D 소터를 중재하는 창고 제어 시스템 `C#` `ASP.NET Core` `React` `Modbus TCP/RTU` `SignalR`
-✔ **[2024.03 ~ 2024.06]** [Smart Academy](https://github.com/nhnacademy-aiot1-TXT) — 환경 모니터링 및 장치 제어 시스템 (Spring Cloud 기반 11개 MSA, 팀장) `Java` `Spring Cloud` `RabbitMQ` `InfluxDB`
-✔ **[2022.09 ~ 2023.06]** [Ulsan Recommended System](https://github.com/TEAM-URS) — 리뷰 기반 울산 장소 추천 시스템 `Python` `Django` `KoNLPy`
+✔ **[2026.06 ~ 진행 중]** [RCS·3D Sorter 연동 WCS](https://github.com/pass0210/Rcs3dsInterlockingWcs) — AGV·3D 소터를 중재하는 창고 제어 시스템 `C#` `ASP.NET Core` `React` `Modbus TCP/RTU` `SignalR`  
+✔ **[2024.03 ~ 2024.06]** [Smart Academy](https://github.com/nhnacademy-aiot1-TXT) — 환경 모니터링 및 장치 제어 시스템 (Spring Cloud 기반 11개 MSA, 팀장) `Java` `Spring Cloud` `RabbitMQ` `InfluxDB`  
+✔ **[2022.09 ~ 2023.06]** [Ulsan Recommended System](https://github.com/TEAM-URS) — 리뷰 기반 울산 장소 추천 시스템 `Python` `Django` `KoNLPy`  
 
 ## 🏫 Education 🏫
 
@@ -22,9 +22,9 @@
 
 ## 📔 Experience 📔
 
-✔ [2022.07 ~ 2022.08] LG Aimers/Data Intelligence 과정 이수
-✔ [2023.07 ~ 2023.08] NHN Academy Java Classic 과정 이수
-✔ [2023.09 ~ 2024.06] NHN Academy AIoT Backend 개발자 과정 이수
+✔ [2022.07 ~ 2022.08] LG Aimers/Data Intelligence 과정 이수  
+✔ [2023.07 ~ 2023.08] NHN Academy Java Classic 과정 이수  
+✔ [2023.09 ~ 2024.06] NHN Academy AIoT Backend 개발자 과정 이수  
 
 ## 🛠 Tech Stack 🛠
 
@@ -50,6 +50,6 @@
 
 [![활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=pass0210&theme=react-dark&bg_color=00000000&hide_border=true&line=6495ED&color=9ACD32&title_color=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake](https://github.com/pass0210/pass0210/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/pass0210/pass0210/raw/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0)
